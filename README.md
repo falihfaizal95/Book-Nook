@@ -7,7 +7,7 @@ BookNook App 📚
 
 Overview
 
-BookNook is a JavaFX desktop application designed to provide users with an engaging way to explore language and literature. Originally inspired by a class project in CSCI 1302 at the University of Georgia, this version of the app has been significantly expanded and independently developed to showcase seamless API integration, responsive UI design, and performance optimization.
+BookNook is a JavaFX desktop application designed to provide users with an engaging way to explore language and literature. What started off as an idea that I had, this version of the app has been significantly expanded and independently developed to showcase seamless API integration, responsive UI design, and performance optimization.
 
 Features
 
@@ -64,7 +64,7 @@ License
 
 Acknowledgments
 
-Original inspiration: CSCI 1302 API App project (University of Georgia)
+
 API Providers:
 Free Dictionary API
 Google Books API
