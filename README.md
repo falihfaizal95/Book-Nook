@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-# TicTacToe
-=======
+
 BookNook App 📚
 
 
