@@ -29,7 +29,7 @@ java.net.http.HttpClient (for HTTP requests)
 Maven (for dependency management)
 VS Code & Emacs (development IDEs)
 Git (version control)
-How It Works
+How It Works:
 
 The user enters a word or phrase in the search bar.
 The app queries the Free Dictionary API to retrieve definitions and phonetics.
