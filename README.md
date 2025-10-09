@@ -59,8 +59,7 @@ Add offline access mode using local file-based cache
 Expand to support audio pronunciation playback
 Add favorites/bookmarking system for saved results
 Implement dark mode and theme settings
-License
-
+License.
 
 
 Acknowledgments
