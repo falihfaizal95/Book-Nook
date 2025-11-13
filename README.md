@@ -58,7 +58,7 @@ Add favorites/bookmarking system for saved results
 Implement dark mode and theme settings
 License.
 
--------------------------
+--------------------------
 # Acknowledgments
 
 
