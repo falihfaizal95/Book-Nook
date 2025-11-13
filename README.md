@@ -50,7 +50,7 @@ Screenshots
 
 
 
-Future Improvements
+# Future Improvements
 
 Add offline access mode using local file-based cache
 Expand to support audio pronunciation playback
