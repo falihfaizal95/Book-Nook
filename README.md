@@ -2,7 +2,7 @@
 # BookNook App 📚
 
 
-## Overview
+# Overview
 
 BookNook is a JavaFX desktop application designed to provide users with an engaging way to explore language and literature. What started off as an idea that I had, this version of the app has been significantly expanded and independently developed to showcase seamless API integration, responsive UI design, and performance optimization.
 ---------------------------
@@ -16,7 +16,8 @@ Google Books API: Returns book titles and metadata related to a given keyword or
 💡 Caching mechanism that reduces redundant API calls by up to 40%, improving speed and responsiveness.
 🔧 Maven-based project structure for streamlined dependency management and builds.
 🧭 Smooth navigation system to display search results clearly and effectively.
-Technologies Used
+
+# Technologies Used
 
 Java 17
 JavaFX 17
