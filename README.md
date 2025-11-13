@@ -59,7 +59,7 @@ Implement dark mode and theme settings
 License.
 
 
-Acknowledgments
+# Acknowledgments
 
 
 API Providers:
