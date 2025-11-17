@@ -5,7 +5,7 @@
 # Overview
 
 BookNook is a JavaFX desktop application designed to provide users with an engaging way to explore language and literature. What started off as an idea that I had, this version of the app has been significantly expanded and independently developed to showcase seamless API integration, responsive UI design, and performance optimization.
----------------------------
+----------------------------
 ## Features
 
 🌐 Integrates two RESTful JSON APIs:
