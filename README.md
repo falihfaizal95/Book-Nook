@@ -48,7 +48,7 @@ Maven
 Internet connection (to access external APIs)
 Screenshots
 
-
+--------------------------
 
 # Future Improvements
 
