@@ -16,7 +16,7 @@ Google Books API: Returns book titles and metadata related to a given keyword or
 💡 Caching mechanism that reduces redundant API calls by up to 40%, improving speed and responsiveness.
 🔧 Maven-based project structure for streamlined dependency management and builds.
 🧭 Smooth navigation system to display search results clearly and effectively.
-
+----------------
 # Technologies Used
 
 Java 17
